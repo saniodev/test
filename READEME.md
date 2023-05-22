@@ -5,3 +5,5 @@
 # Uso do cmd restory
 
 # Uso do cmd pull
+
+# Uso do cmd fetch
